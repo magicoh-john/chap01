@@ -10,7 +10,6 @@ public class CharToCode {
 		char characteC = 'a';
 		int charCode = (int)characteC;
 		System.out.printf("%c = %d \n ", characteC, charCode);
-		System.out.println("처리완료");
-		System.out.println("처리완료");
+
 	}
 }
